@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "email": "mayur.shinde@gmail.com",
+        "password": "1234",
+        "likedVideos": [],
+        "dislikedVideos": [],
+        "watchLaterVideos": []
+    },
+    {
+        "id": 2,
+        "email": "yograj.gurav@gmail.com",
+        "password": "1234",
+        "likedVideos": [],
+        "dislikedVideos": [],
+        "watchLaterVideos": []
+    },
+    {
+        "id": 3,
+        "email": "shashwat.gupta@gmail.com",
+        "password": "1234",
+        "likedVideos": [],
+        "dislikedVideos": [],
+        "watchLaterVideos": []
+    },
+    {
+        "id": 4,
+        "email": "atharva.godse@gmail.com",
+        "password": "1234",
+        "likedVideos": [],
+        "dislikedVideos": [],
+        "watchLaterVideos": []
+    },
+    {
+        "id": 5,
+        "email": "pratibha.bhat@gmail.com",
+        "password": "1234",
+        "likedVideos": [],
+        "dislikedVideos": [],
+        "watchLaterVideos": []
+    }
+]
